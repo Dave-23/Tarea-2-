@@ -1,0 +1,7 @@
+c:\users\patterson\documents\visual studio 2013\Projects\Cajero Banco\Cajero Banco\bin\Debug\Cajero Banco.exe.config
+C:\Users\Programacion\Desktop\Cajero Banco\bin\Debug\Cajero Banco.exe.config
+C:\Users\Programacion\Desktop\Cajero Banco\obj\Debug\Cajero Banco.csprojResolveAssemblyReference.cache
+C:\Users\Programacion\Desktop\Cajero Banco\bin\Debug\Cajero Banco.exe
+C:\Users\Programacion\Desktop\Cajero Banco\bin\Debug\Cajero Banco.pdb
+C:\Users\Programacion\Desktop\Cajero Banco\obj\Debug\Cajero Banco.exe
+C:\Users\Programacion\Desktop\Cajero Banco\obj\Debug\Cajero Banco.pdb
